@@ -1,3 +1,6 @@
+<img width="400" height="250" alt="demo" src="https://github.com/user-attachments/assets/7c49c7b7-eed4-47ef-b15d-06ea87decd4b" />
+
+
 # Endless Runner Game — CS50x Final Project
 
 An endless side-scrolling runner game built with Lua and the LÖVE (Love2D) engine. The objective is to jump over obstacles, survive as long as possible, and beat your high score. There is no win condition.
